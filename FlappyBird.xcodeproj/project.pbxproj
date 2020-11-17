@@ -14,6 +14,7 @@
 		F2549414255EAE350096074D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2549413255EAE350096074D /* Assets.xcassets */; };
 		F2549417255EAE350096074D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2549415255EAE350096074D /* LaunchScreen.storyboard */; };
 		F254941F255EB14B0096074D /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = F254941E255EB14B0096074D /* GameScene.swift */; };
+		F2549421256111DB0096074D /* decision42.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2549420256111DB0096074D /* decision42.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F2549416255EAE350096074D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2549418255EAE350096074D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F254941E255EB14B0096074D /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		F2549420256111DB0096074D /* decision42.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = decision42.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +65,9 @@
 				F254940E255EAE310096074D /* ViewController.swift */,
 				F254941E255EB14B0096074D /* GameScene.swift */,
 				F2549410255EAE310096074D /* Main.storyboard */,
-				F2549413255EAE350096074D /* Assets.xcassets */,
+				F2549420256111DB0096074D /* decision42.mp3 */,
 				F2549415255EAE350096074D /* LaunchScreen.storyboard */,
+				F2549413255EAE350096074D /* Assets.xcassets */,
 				F2549418255EAE350096074D /* Info.plist */,
 			);
 			path = FlappyBird;
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2549421256111DB0096074D /* decision42.mp3 in Resources */,
 				F2549417255EAE350096074D /* LaunchScreen.storyboard in Resources */,
 				F2549414255EAE350096074D /* Assets.xcassets in Resources */,
 				F2549412255EAE310096074D /* Main.storyboard in Resources */,
